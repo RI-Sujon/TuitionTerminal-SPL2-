@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">TuitionTerminal</string>
+
+    <string name="areaAddress_prompt">Give an area Address</string>
+
+    <string-array name="areaAddress_array">
+        <item>Dhaka</item>
+        <item>Chittagong</item>
+        <item>Rajsahi</item>
+        <item>Khulna</item>
+        <item>Barishal</item>
+        <item>Sylhet</item>
+        <item>Rangpur</item>
+        <item>Mymensingh</item>
+    </string-array>
+
+    <string-array name="currentPosition_array">
+        <item>Student</item>
+        <item>Job</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="Edu_InstituteName_array">
+        <item>Dhaka University</item>
+        <item>Chittagong University</item>
+        <item>Rajsahi University</item>
+        <item>Khulna University</item>
+        <item>Barishal University</item>
+        <item>Sylhet University</item>
+        <item>Rangpur University</item>
+        <item>Mymensingh University</item>
+    </string-array>
+
+    <string-array name="Edu_tutorSubject_array">
+        <item>IIT</item>
+        <item>CSE</item>
+        <item>EEE</item>
+        <item>Microbiology</item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+        <item>Math</item>
+        <item>Botany</item>
+    </string-array>
+
+    <string-array name="medium_array">
+        <item>SELECT MEDIUM</item>
+        <item>Bangla</item>
+        <item>English</item>
+        <item>Both</item>
+    </string-array>
+
+    <string-array name="gender_array">
+        <item>MALE / FEMALE</item>
+        <item>MALE</item>
+        <item>FEMALE</item>
+    </string-array>
+
+    <string-array name="preferredClass_array">
+        <item><font size="15"><b>ADD CLASS</b></font></item>
+        <item>Play/Nursery</item>
+        <item>Class 1</item>
+        <item>Class 2</item>
+        <item>Class 3</item>
+        <item>Class 4</item>
+        <item>Class 5</item>
+        <item>Class 6</item>
+        <item>Class 7</item>
+        <item>Class 8</item>
+        <item>Class 9</item>
+        <item>Class 10</item>
+        <item>Inter 1st Year</item>
+        <item>Inter 2nd Year</item>
+        <item>Hons</item>
+    </string-array>
+
+    <string-array name="preferredGroup_array">
+        <item><b>SELECT GROUP</b></item>
+        <item>Science</item>
+        <item>Commerce</item>
+        <item>Arts</item>
+        <item>Madrasha</item>
+        <item>NULL</item>
+    </string-array>
+
+    <string-array name="preferredSubject_array">
+        <item><font size="15"><b>ADD SUBJECT</b></font></item>
+        <item>All</item>
+        <item>Bangla</item>
+        <item>English</item>
+        <item>General Math</item>
+        <item>Science</item>
+        <item>Islamic Studies</item>
+        <item>Bangladesh And Global Studies</item>
+    </string-array>
+
+    <string-array name="daysPerWeekOrMonth_array">
+        <item><b>SELECT</b>></item>
+        <item>Negotiable</item>
+        <item>7 day/week</item>
+        <item>6 day/week</item>
+        <item>5 day/week</item>
+        <item>4 day/week</item>
+        <item>3 day/week</item>
+        <item>2 day/week</item>
+        <item>1 day/week</item>
+    </string-array>
+
+    <string-array name="salaryUpto_array">
+        <item>500</item>
+        <item>1000</item>
+        <item>2000</item>
+        <item>3000</item>
+        <item>4000</item>
+        <item>5000</item>
+        <item>6000</item>
+        <item>7000</item>
+        <item>8000</item>
+        <item>9000</item>
+        <item>10000</item>
+        <item>11000</item>
+        <item>12000</item>
+        <item>13000</item>
+        <item>14000</item>
+        <item>15000</item>
+    </string-array>
+
+</resources>
